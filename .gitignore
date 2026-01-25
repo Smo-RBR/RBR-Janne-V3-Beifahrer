@@ -1,0 +1,49 @@
+# Ignore alles im RBR-Ordner, außer den Dateien aus dem Beifahrer-Repo
+/*
+
+# Aber diese Dateien/Ordner verfolgen
+!.gitignore
+!/Audio
+!/Plugins
+!/README.md
+
+# Keine Python-Dateien verfolgen
+*.py
+
+# Backup-Ordner ignorieren (alle Varianten)
+Backup/
+backup/
+**/Backup/
+**/backup/
+
+# Tooling/IDE Metadaten ignorieren
+.windsurf/
+**/.windsurf/
+.clinerules
+**/.clinerules
+
+# Backup-Dateien mit -bak im Namen ignorieren
+*-bak
+*-bak.*
+**/*-bak
+**/*-bak.*
+
+# Test-Output-Ordner ignorieren
+test_output/
+**/test_output/
+
+# tts-out-Verzeichnisse ignorieren
+tts-out/
+**/tts-out/
+
+# Binaries und Dokumentation ignorieren
+bin/
+doc/
+**/bin/
+**/doc/
+
+# Im Plugins-Ordner standardmäßig wieder alles ignorieren
+/Plugins/*
+
+# Ausnahme: Pacenote-Ordner soll verfolgt werden
+!/Plugins/Pacenote
