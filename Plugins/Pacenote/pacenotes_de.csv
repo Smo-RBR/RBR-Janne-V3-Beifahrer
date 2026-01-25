@@ -1,0 +1,661 @@
+name,sound_file,de_translation
+GETS_FASTER,gets_faster.ogg,Wird schneller
+GETS_SLOWER,gets_slower.ogg,Wird langsamer
+TURN,turn.ogg,Abbiegen
+JUNCTION,junction.ogg,Kreuzung
+SQUARE,square_scale.ogg,Ecke
+PAST_JUNCTION,past_junction.ogg,Nach Kreuzung
+MINUS,minus.ogg,Minus
+PLUS,plus.ogg,Plus
+MINUSMINUS,minusminus.ogg,Langsamer
+PLUSPLUS,plusplus.ogg,Schneller
+MAYBE,maybe.ogg,Unsicher
+TRUST,trust.ogg,Vertrauen
+REMEMBER,remember.ogg,Erinnern
+PATIENT,patient.ogg,Ruhig fahren
+IMPORTANT,important.ogg,Vollgas!
+ONSPLIT,onsplit.ogg,Zwischenzeit (veraltet)
+SPECTATORS,spectators.ogg,Zuschauer
+MARSHALLS,marshalls.ogg,Marshalls
+DONE,finish.ogg,Fertig
+TO_SIGHT_DISTANCE,to_sight_distance.ogg,Bis Sichtweite
+SPLIT_TIME,split_time.ogg,Zwischenzeit
+SPEED,speed.ogg,Tempo halten
+DOUBLE,double.ogg,Doppelt
+CURBSIDE,curbside.ogg,Rechtsseitig (veraltet)
+SCALEPLUS,scale_plus.ogg,Schneller
+SCALEMINUS,scale_minus.ogg,Langsamer
+EDGE,edge.ogg,Kante (veraltet)
+BORDER,border.ogg,Rand (veraltet)
+CHECKPOINT,checkpoint.ogg,Checkpoint (veraltet)
+CURVE,curve.ogg,Kurve
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+TWO_PARTS,two_parts.ogg,Zweimal
+THREE_PARTS,three_parts.ogg,Dreimal
+FOUR_PARTS,four_parts.ogg,Viermal
+FIVE_PARTS,five_parts.ogg,mal 5
+SHORT,short.ogg,Kurz
+SHORTSHORT,shortshort.ogg,Sehr Kurz
+VERY_SHORT,very_short.ogg,Extrem Kurz
+HALF_LONG,halflong.ogg,Längere
+LONG,long.ogg,Lang
+VERY_LONG,verylong.ogg,Sehr Lang
+EXTRAEXTRALONG,veryverylong.ogg,Extrem Lang
+FUCKINGLONG,fuckinglong.ogg,Endlos
+LONGLONG,verylong.ogg,Lang Lang (veraltet)
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+EASY,easy.ogg,Sicher
+HARD,hard.ogg,Vorsicht
+FAST,fast.ogg,Vollgas
+SLOW,slow.ogg,Langsam
+BIG,big.ogg,Groß
+SMALL,small.ogg,Klein
+MUCH,much.ogg,Viel
+SLIGHT,slight.ogg,Gering
+ALOT,a_lot.ogg,Viel
+ABIT,a_bit.ogg,Etwas
+MANY,many.ogg,Viele
+VERY,very.ogg,Sehr
+SHARP,sharp.ogg,Spitz
+ROUND,round.ogg,Kreis
+TIGHT,tight.ogg,Enge
+CRAMPED,cramped.ogg,Beengte
+WIDE,wide.ogg,Breit
+NARROW,narrow.ogg,Eng
+POSITIVE,positive.ogg,Positiv
+NEGATIVE,negative.ogg,Negativ
+STRAIGHT,straight.ogg,Gerade
+LIGHT,light.ogg,Leicht
+GOOD,good.ogg,Good
+BAD,bad.ogg,Schlecht
+DEEP,deep.ogg,Tief
+FICKLE,fickle.ogg,windet sich
+FLATOUT,flat.ogg,Vollgas
+DIRECTLY,directly.ogg,Direkt
+COMPATIBILITY_WIDE,wide.ogg,Breit (veraltet)
+CARE_NOLINK,care.ogg,Vorsicht außen
+FAKES,deceptive.ogg,Täuscht
+CAREIN,care_in.ogg,Vorsichtig Einfahren
+CAREOUT,care_out.ogg,Vorsicht Ausfahren
+CAUTION_NOLINK,caution.ogg,Achtung
+DOUBLE_CAUTION,double_caution.ogg,Gefahr
+TRIPLE_CAUTION,double_caution.ogg,Tödlich
+CAUTION_WATER,caution_water.ogg,Achtung Wasser
+SLIPPERY,slippery.ogg,Glatt
+SLIPPERY_MAYBE,maybe_slippy.ogg,Wahrscheinlich Glatt
+SLIPPY_ENTRY,slippy_entry.ogg,Einfahrt Glatt
+SLIPPY_EXIT,slippy_exit.ogg,Ausfahrt Glatt
+VERY_SLIPPY,very_slippy.ogg,Sehr Glatt
+SLIPPY_BRAKING,slippy_braking.ogg,Glatte Bremszone
+BRAKE,brake.ogg,Bremsen
+BRAKE_INTO,brake_into.ogg,Bremsen in
+BRAKE_AND,brake_and.ogg,Bremsen dann
+BRAKE_10,brake10.ogg,Bremsen in 10
+BRAKE_20,brake_20.ogg,Bremsen in 20
+BRAKE_30,brake_30.ogg,Bremsen in 30
+BRAKE_40,brake_40.ogg,Bremsen in 40
+BRAKE_50,brake_50.ogg,Bremsen in 50
+BUMPY_BRAKING,bumpy_braking.ogg,Schläge Beim Bremsen
+PRECISE,precise.ogg,Präzise
+WATCH,precise.ogg,Aufpassen
+SEE,see.ogg,Aufmerksam
+BLIND,unseen.ogg,Versteckt
+EXACT,precise.ogg,Genau
+HIDDEN,unseen.ogg,Verdeckt
+CARE,care.ogg,Vorsicht (mit Link)
+CAUTION,caution.ogg,Achtung (mit Link)
+COMPATIBILITY_SLIPPY,slippy.ogg,Glatt (veraltet)
+COMPATIBILITY_BRAKE_JATKUU,brake_and.ogg,Bremsen dann (veraltet)
+SMALL_DAB,small_dab.ogg,Leicht lupfen
+BIG_DAB,big_dab.ogg,Lupfen
+L_FOOT_BRAKING,dab.ogg,Langsam bremsen
+HANDBRAKE,handbrake.ogg,Handbremse
+NEAT,neat.ogg,Vorsichtig
+SLOWING,slowing.ogg,Langsamer
+BE_BRAVE,be_brave.ogg,Vollgas!
+GO_FULL,go.ogg,Vollgas!
+SIDEWAYS,rotate.ogg,Driften
+WALK,walk.ogg,Schritt fahren
+STOP,stop.ogg,Stopp
+LIFT,lift.ogg,Gas weg!
+SLIDE,slide.ogg,Rutscht
+UNDERSTEER,understeer.ogg,Untersteuern
+TAKE_SPEED,take_speed.ogg,Tempo halten
+COMPATIBILITY_DAB,dab.ogg,Anbremsen (Veraltet)
+KEEPLEFT,keep_left.ogg,Bleib links
+KEEPRIGHT,keep_right.ogg,Bleib rechts
+FROM_LEFT,from_left.ogg,Von links
+FROM_RIGHT,from_right.ogg,Von rechts
+LEFT_ENTRY,left_entry.ogg,Links ein
+RIGHT_ENTRY,right_entry.ogg,Rechts ein
+KEEPMIDDLE,keep_middle.ogg,Mittig halten
+TWISTY,twisty.ogg,Schlenker
+TWISTY_FROMLEFT,twisty_from_left.ogg,Schlenker links
+TWISTY_FROMRIGHT,twisty_from_right.ogg,Schlenker rechts
+GOSTRAIGHT,go_straight.ogg,Gerade durch
+STAY_OUT,stay_out.ogg,Bleib außen
+KEEP_IN,keep_in.ogg,Bleib innen
+KEEP_OUT,keep_out.ogg,Bleib außen
+EARLY,early.ogg,Früh
+LATE,late.ogg,Spät
+LINE_NOTE,line.ogg,Linie
+LATEISH,lateish.ogg,Eher spät
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+CUT,cut.ogg,Schneiden
+FULLCUT,full_cut.ogg,Stark schneiden
+LIGHT_CUT,small_cut.ogg,Leicht schneiden
+CLIP,clip.ogg,Knapp schneiden
+HUG,hug.ogg,Einrollen
+HOOK,hook.ogg,Einhängen
+EARLY_CUT,early_cut.ogg,Früh schneiden
+LATE_CUT,late_cut.ogg,Spät schneiden
+CUT_THROUGH,cut_through.ogg,Durchschneiden
+DONTCUT,dontcut.ogg,Nicht schneiden
+DONTCUTEARLY,dont_early.ogg,Nicht Früh schneiden
+DONTCUTLATE,dont_late.ogg,Nicht Spät schneiden
+DOUBLE_DONT,double_dont.ogg,2 Gefahren innen
+TRIPLE_DONT,triple_dont.ogg,3 Gefahren innen
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+GRIP_IN,grip_in.ogg,Einfahrt griffig
+GRIP_OUT,grip_out.ogg,Außfahrt griffig
+GRIP_MIDDLE,grip_middle.ogg,Apex griffig
+GO_ROUND,go_round.ogg,Rund fahren
+GOWIDE,go_wide.ogg,Weit fahren
+GONARROW,gonarrow.ogg,Eng fahren
+HANG,keep_out.ogg,Hang
+ONTO_STRAIGHT,onto_straight.ogg,Gerade
+LEFTISH,leftish.ogg,Eher links
+RIGHTISH,rightish.ogg,Eher rechts
+STAY_IN_RUT,stay_in_rut.ogg,In Rille fahren
+STAY_OUT_OF_RUT,stay_out_of_rut.ogg,Rille meiden
+BETWEEN_BARRELS,between_barrels.ogg,Zwischen Fässern
+BETWEEN_BALES,between_bales.ogg,Zwischen Ballen
+BETWEEN_TIRES,between_tires.ogg,Zwischen Reifen
+COMPATIBILITY_FROM_LEFT,from_left.ogg,Von links (veraltet)
+COMPATIBILITY_FROM_RIGHT,from_right.ogg,Von rechts (veraltet)
+COMPATIBILITY_HOLD,keep_in.ogg,Innen halten (veraltet)
+COMPATIBILITY_HAE,line.ogg,Linie (veraltet)
+COMPATIBILITY_DEEPCUT,full_cut.ogg,Full Cut (veraltet)
+COMPATIBILITY_KEEP_CENTRE,keep_middle.ogg,Mittig halten (veraltet)
+DISTANCE_CALL,,Distanz
+EMPTY_CALL,,Leere Pacenote
+INTO,into.ogg,In
+ONTO,onto.ogg,Auf
+AND,and.ogg,Und
+AGAIN,again.ogg,Wieder
+SUDDEN,sudden.ogg,Plötzlich
+IMMEDIATE,immediate.ogg,Unmittelbar
+TO_FINISH,tofinish.ogg,Ins Ziel
+NEXT_LAP,onto_nextlap.ogg,Nächste Runde
+TAKE_EXIT,onto_finish.ogg,Zum Ziel
+FIRST_EXIT,first_exit.ogg,Erste raus
+SECOND_EXIT,second_exit.ogg,Zweite raus
+THIRD_EXIT,third_exit.ogg,Dritte raus
+CALLOUT_TIME,,Zeit Anpassen
+CALLOUT_DISTANCE,,Distanz Anpassen
+CALLOUT_ADJUST,,Callout Anpassen
+SOUND_INDEX,,Sound Index
+PLACE_HOLDER,,Platzhalter
+FINISH,finish.ogg,Ziel
+COMPATIBILITY_JATKUU,and.ogg,Und (Veraltet)
+ENTRY,at_entry.ogg,Eingang
+AT_EXIT,at_exit.ogg,Bei Ausfahrt
+AT_TREE,at_tree.ogg,Bei Baum
+AT_TREES,at_trees.ogg,Bei Bäumen
+AT_BALE,at_bale.ogg,Bei Ballen
+AT_ROCK,at_rock.ogg,Bei Fels
+AT_GUARDRAIL,at_guardrail.ogg,Bei Leitplanke
+AT_BANNER,at_banner.ogg,Bei Banner
+AT_TAPE,at_tape.ogg,Bei Band
+AT_FENCE,at_fence.ogg,Bei Zaun
+AT_FLAG,at_flag.ogg,Bei Flagge
+AT_HOUSE,at_house.ogg,Bei Haus
+AT_SIGN,at_sign.ogg,Bei Schild
+AT_POST,at_post.ogg,Bei Pfahl
+AT_JUNCTION,at_junction.ogg,Bei Kreuzung
+AT_CREST,at_crest.ogg,Bei Kuppe
+AT_GATE,at_gate.ogg,Bei Tor
+AT_BRIDGE,at_bridge.ogg,Bei Brücke
+AT_OPENING,at_opening.ogg,Wenn öffnet
+AT_BUSH,at_bush.ogg,Bei Busch
+AT_LOG,at_log.ogg,Bei Stamm
+AT_LOGS,at_logs.ogg,Bei Stämmen
+AT_CAR,at_car.ogg,Bei Auto
+AT_BLACK,at_black.ogg,Bei Schwarz
+AT_BLUE,at_blue.ogg,Bei Blau
+AT_GREEN,at_green.ogg,BeiGrün
+AT_RED,at_red.ogg,Bei Rot
+AT_WHITE,at_white.ogg,Bei Weiß
+AT_YELLOW,at_yellow.ogg,Bei Gelb
+AT_OBJECT,at_object.ogg,Bei Objekt
+AT_BARREL,at_barrel.ogg,Bei Fass
+AT_WALL,at_wall.ogg,Bei Wand
+AT_THING,at_thing.ogg,Bei Dingen
+NARROWS]     ; legacy sound and modifier,narrows.ogg,
+WIDEOUT]     ; legacy sound and modifier,wideout.ogg,
+TIGHTENS]    ; legacy sound and modifier,tightens.ogg,
+TIGHTENSBAD] ; legacy sound and modifier,doubletightens.ogg,
+CUT]         ; legacy sound and modifier,cut.ogg,
+DONTCUT]     ; legacy sound and modifier,dont.ogg,
+LONG]        ; legacy sound and modifier,long.ogg,
+MAYBE]       ; legacy sound and modifier,maybe.ogg,
+SOUND_FILE,,Sounddatei
+STANDARD_CALL,,Standard Call
+1,1.ogg,
+2,2.ogg,
+3,3.ogg,
+4,4.ogg,
+5,5.ogg,
+6,6.ogg,
+7,7.ogg,
+8,8.ogg,
+9,9.ogg,
+NR10,10.ogg,10
+NR20,20.ogg,20
+NR30,30.ogg,30
+NR40,40.ogg,40
+NR50,50.ogg,50
+NR60,60.ogg,60
+NR70,70.ogg,70
+NR80,80.ogg,80
+NR90,90.ogg,90
+100,100.ogg,
+120,120.ogg,
+140,140.ogg,
+150,150.ogg,
+160,160.ogg,
+180,180.ogg,
+200,200.ogg,
+250,250.ogg,
+300,300.ogg,
+350,350.ogg,
+400,400.ogg,
+450,450.ogg,
+500,500.ogg,
+600,600.ogg,
+700,700.ogg,
+800,800.ogg,
+900,900.ogg,
+1000,1000.ogg,
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+DIST21,21.ogg,21
+DIST31,31.ogg,31
+DIST41,41.ogg,41
+DIST51,51.ogg,51
+DIST61,61.ogg,61
+DIST71,71.ogg,71
+DIST81,81.ogg,81
+DIST91,91.ogg,91
+DIST101,101.ogg,101
+DIST121,121.ogg,121
+DIST141,141.ogg,141
+DIST151,151.ogg,151
+DIST161,161.ogg,161
+DIST181,181.ogg,181
+DIST201,201.ogg,201
+DIST251,251.ogg,251
+DIST301,301.ogg,301
+DIST351,351.ogg,351
+DIST401,401.ogg,401
+DIST451,451.ogg,451
+DIST501,501.ogg,501
+DIST601,601.ogg,601
+DIST701,701.ogg,701
+DIST801,801.ogg,801
+DIST901,901.ogg,901
+DIST1001,1001.ogg,1001
+BALE_IN,bale_in.ogg,Ballen Innen
+BALE_OUT,bale_out.ogg,Ballen Außen
+TIRES_IN,tires_in.ogg,Reifen Innen
+TIRES_OUT,tires_out.ogg,Reifen Außen
+ROCK_IN,rock_in.ogg,Stein Innen
+ROCK_OUT,rock_out.ogg,Stein Außen
+ROCKS_IN,rocks_in.ogg,Steine Innen
+ROCKS_OUT,rocks_out.ogg,Steine Außen
+FENCE_IN,fence_in.ogg,Zaun Innen
+FENCE_OUT,fence_out.ogg,Zaun Außen
+TREE_IN,tree_in.ogg,Baum Innen
+TREE_OUT,tree_out.ogg,Baum Außen
+DITCH_IN,ditch_in.ogg,Graben Innen
+DITCH_OUT,ditch_out.ogg,Graben Außen
+DROP_IN,drop_in.ogg,Uneben Innen
+DROP_OUT,drop_out.ogg,Uneben Außen
+HOUSE_IN,house_in.ogg,Haus Innen
+HOUSE_OUT,house_out.ogg,Haus Außen
+GUARDRAIL_IN,fence_in.ogg,Leitplanke Innen
+GUARDRAIL_OUT,fence_out.ogg,Leitplanke Außen
+SIGN_IN,sign_in.ogg,Schild Innen
+SIGN_OUT,sign_out.ogg,Schild Außen
+LOG_IN,log_in.ogg,Stamm Innen
+LOG_OUT,log_out.ogg,Stamm Außen
+LOGS_IN,logs_in.ogg,Stämme Innen
+LOGS_OUT,logs_out.ogg,Stämme Außen
+BARREL_IN,barrel_in.ogg,Fass Innen
+BARREL_OUT,barrel_out.ogg,Fass Außen
+WALL_IN,wall_in.ogg,Wand Innen
+WALL_OUT,wall_out.ogg,Wand Außen
+DRAIN_IN,drain_in.ogg,Gully Innen
+DRAIN_OUT,drain_out.ogg,Gully Außen
+POST_IN,post_in.ogg,Pfosten Innen
+POST_OUT,post_out.ogg,Pfosten Außen
+POST_EARLY,post_early.ogg,Pfosten Früh
+POST_LATE,post_late.ogg,Pfosten Spät
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+BOULDER,boulder.ogg,Fels
+ROCK,rock.ogg,Stein
+DRAIN,drain.ogg,Gully
+FENCE,fence.ogg,Zaun
+WALL,wall.ogg,Wand
+HOUSE,house.ogg,Haus
+TREE,tree.ogg,Baum
+STUMP,stump.ogg,Baumstumpf
+MAST,mast.ogg,Mast
+ROAD,road.ogg,Strasse
+SIGN,sign.ogg,Schild
+BUSH,bush.ogg,Busch
+PATH,path.ogg,Pfad
+NETTING,netting.ogg,Netz
+TAPE,tape.ogg,Band
+ROUNDABOUT,roundabout.ogg,Kreisverkehr
+WOODEN_FENCE,wooden_fence.ogg,Holzzaun
+SIDEWALK,sidewalk.ogg,Fussweg
+ISLAND,island.ogg,Insel
+CURB,curb.ogg,Bord
+DITCH,ditch.ogg,Graben
+BALE,bale.ogg,Ballen
+POST,post.ogg,Pfosten
+LOG,log.ogg,Stamm
+STONE,stone.ogg,Stein
+GUARDRAIL,guardrail.ogg,Leitplanke
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+TYRES,tyres.ogg,Reifen
+BARRELS,barrels.ogg,Fass
+ROCKS,rocks.ogg,Steine
+TREES,trees.ogg,Baum
+LOGS,logs.ogg,Stämme
+GUARDRAILS,guardrails.ogg,Leitplanke
+WALLS,walls.ogg,Wände
+POSTS,posts.ogg,Pfähle
+BALES,bales.ogg,Ballen
+TWO_BALES,two_bales.ogg,2 Ballen
+THREE_BALES,three_bales.ogg,3 Ballen
+FOUR_BALES,four_bales.ogg,4 Ballen
+FIVE_BALES,five_bales.ogg,5 Ballen
+COMPATIBILITY_DONTBLOCK,post.ogg,Pfosten (veraltet)
+BRIDGE,bridge.ogg,Brücke
+NARROW_BRIDGE,narrow_bridge.ogg,Schmale Brücke
+OVER_BRIDGE,over_bridge.ogg,Über Brücke
+OVER_NARROW_BRIDGE,over_narrow_bridge.ogg,Über Schmale Brücke
+ONTO_BRIDGE,onto_bridge.ogg,Auf Brücke
+ONTO_NARROW_BRIDGE,onto_narrow_bridge.ogg,Auf Schmale Brücke
+BUMP_BRIDGE,bridge_bump.ogg,Brücke Schlag
+GRID,grid.ogg,Gitter
+GATE,gate.ogg,Tor
+THROUGH_GATE,through_gate.ogg,Durch Tor
+NARROW_GATE,narrow_gate.ogg,Schmales Tor
+THROUGH_NARROW_GATE,through_narrow_gate.ogg,Durch schmales Tor
+RAILS,rails.ogg,Schienen
+OVER_RAILS,rails.ogg,Über Schienen
+FORD,water.ogg,Furt
+PUDDLE,water.ogg,Schlagloch
+TUNNEL,tunnel.ogg,Tunnel
+OVER_ROCKS,over_rocks.ogg,Über Steine
+SNOW_BORDER,snow_border.ogg,Schneebank
+COMPATIBILITY_WATER,water.ogg,Wasser (Veraltet)
+COMPATIBILITY_OVER_RAILWAY,rails.ogg,Über Schienen (Veraltet)
+OPENS,opens.ogg,Öffnet
+OPENSTIGHTENS,opens_tightens.ogg,Öffnet Verengt
+OPENSLITTLE,opens_abit.ogg,Öffnet Leicht
+OPENSHALFLONG,opens_halflong.ogg,Opens Halflong
+OPENSLONG,opens_long.ogg,Öffnet Lang
+OPENSVERYLONG,opens_verylong.ogg,Öffnet Sehr Spät
+OPENSVERYVERYLONG,opens_veryverylong.ogg,Öffnet Sehr Sehr Spät
+OPENSFUCKINGLONG,opens_fuckinglong.ogg,Öffnet Verdammt Spät
+OPENSLONGLONG,opens_longlong.ogg,Öffnet Lang Lang
+OPENSATJUNCTION,opens_at_junction.ogg,Öffnet An Kreuzung
+OPENSEARLY,opens_early.ogg,Öffnet Früh
+OPENSLATE,opens_late.ogg,Öffnet Lang Lang
+OPENSSHARP,opens_sharp.ogg,Öffnet Scharf
+OPENSROUND,opens_round.ogg,Öffnet Rund
+OPENSOVERCREST,opens_overcrest.ogg,Öffnet Über Kuppe
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+OPENSTOFLAT,opens_six.ogg,Öffnet 6
+OPENSTOFLATMINUS,opens_five_plus.ogg,Öffnet 5+
+OPENSTOSIX,opens_five.ogg,Öffnet 5
+OPENSTOQUICK,opens_four_plus.ogg,Öffnet 4+
+OPENSTOFIVE,opens_four.ogg,Öffnet 4
+OPENSTOEM,opens_three_plus.ogg,Öffnet 3+
+OPENSTOFOUR,opens_three.ogg,Öffnet 3
+OPENSTOPLUS,opens_two_plus.ogg,Öffnet 2+
+OPENSTOTHREE,opens_two.ogg,Öffnet 2
+OPENSTOSQUARE_PLUS,opens_square_plus.ogg,Öffnet 90+
+OPENSTOTWO,opens_square.ogg,Öffnet 90
+OPENSTOMINUS,opens_one_plus.ogg,Öffnet 1+
+OPENSTOONE,opens_one.ogg,Öffnet 1
+OPENSTOROUNDHP,opens_open_hp.ogg,Öffnet Kehre
+OPENSTOHP,opens_hp.ogg,Öffnet Spitz
+THROUGH,through.ogg,Durch
+AFTER,after.ogg,Nach
+NEAR,near.ogg,Nahe
+ON,on.ogg,Auf
+UNTIL,until.ogg,Bis
+AT,at.ogg,Bei
+BEFORE,before.ogg,Vor
+OVER,over.ogg,Über
+INSIDE,in.ogg,Innen
+OUTSIDE,out.ogg,Außen
+IN_AND_OUT,in_and_out.ogg,Innen und Außen
+BEHIND,behind.ogg,Hinter
+THEN,then.ogg,Dann
+OFF,off.ogg,Von
+FOR,for.ogg,Für
+FROM,from.ogg,Von
+COMPATIBILITY_IN,in.ogg,Innen (veraltet)
+COMPATIBILITY_IN_DE,in.ogg,Innen (veraltet)
+CREST,crest.ogg,Kuppe
+SMALL_CREST,small_crest.ogg,Kuppe klein
+FLAT_CREST,flat_crest.ogg,Kuppe schnell
+SLOW_CREST,slow_crest.ogg,Kuppe langsam
+LONGCREST,long_crest.ogg,Kuppe lange
+CREST_DAB,crest_dab.ogg,"Kuppe, lupfen"
+DOUBLECREST,double_crest.ogg,Kuppe doppelt
+TO_CREST,to_crest.ogg,Auf Kuppe
+OVERCREST_NOLINK,over_crest.ogg,Über Kuppe (ohne Link)
+OVERSMALLCREST,over_small_crest.ogg,Über Kleine Kuppe
+OVERLONGCREST,over_long_crest.ogg,Über Lange Kuppe
+OVER_EARLY_AND_LATE_CREST,over_early_and_late_crest.ogg,Über Kuppe früh spät
+OVER_EARLY_CREST,over_early_crest.ogg,Kuppe früh
+OVER_LATE_CREST,over_late_crest.ogg,Kuppe spät
+OVERTWOCRESTS,over_two_crests.ogg,Über Zwei Kuppen
+OVERTHREECRESTS,over_three_crests.ogg,Über Drei Kuppen
+CONTINUESOVERCREST,continues_over_crest.ogg,Länger nach Kuppe
+CONTINUESOVERSMALLCREST,continues_over_small_crest.ogg,Länger nach Kleine Kuppe
+CREST_TO_LEFT,crest_to_left.ogg,Kuppe leicht Links
+CREST_TO_RIGHT,crest_to_right.ogg,Kuppe leicht Rechts
+DROPS,drops.ogg,Gefälle
+STEEP_DROP,drops.ogg,Starkes Gefälle
+DROPS_LEFT,drops_left.ogg,Gefälle rechts
+DROPS_RIGHT,drops_right.ogg,Gefälle links
+BROW,crest.ogg,Rampe
+OVER_BROW,over_brow.ogg,Über Rampe
+CONTINUESOVERBROW,continues_over_brow.ogg,Rampe
+STEEP_HILL,steep_hill.ogg,Steiler Anstieg
+STEEP_INCLINE,steep_incline.ogg,Starke Steigung
+STEEP_SLOPE,steep_slope.ogg,Steile Steigung
+THROWS,throws.ogg,Wirft
+TO_BUMP,to_bump.ogg,Sprung In Schlag
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+JUMP,jump.ogg,Sprung
+JUMP_MAYBE,jump_maybe.ogg,Sprung Vielleicht
+BIG_JUMP,big_jump.ogg,Sprung weit
+SMALL_JUMP,small_jump.ogg,Sprung kurz
+FLAT_JUMP,flat_jump.ogg,Sprung schnell
+JUMP_DAB,jump_dab.ogg,"Sprung, lupfen"
+DOUBLE_JUMP,double_jump.ogg,Zwei Sprünge
+TO_JUMP,to_jump.ogg,In Sprung
+OVER_JUMP,over_jump.ogg,Über Sprung
+OVER_JUMP_DAB,over_jump_dab.ogg,"Über Sprung, lupfen"
+OVER_BIG_JUMP,over_big_jump.ogg,Über Großen Sprung
+OVER_SMALL_JUMP,over_small_jump.ogg,Über Kleinen Sprung
+OVER_JUMP_MAYBE,over_jump_maybe.ogg,Über Sprung Vielleicht
+LIFTS,lifts.ogg,Lupfen
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+DIP,dip.ogg,Senke
+TODIP,to_dip.ogg,In Senke
+HOLLOW,hollow.ogg,Wanne
+HOLE,hole.ogg,Loch
+BUMP,bump.ogg,Schlag
+BUMPS,bumps.ogg,Buckel
+BUMPS_OVER,bumps_over.ogg,Über Schläge
+BUMP_DIP,bump_dip.ogg,Schlag
+BUMP_DIPS,bump_dips.ogg,Schläge
+BAD_BUMP,bad_bump.ogg,Schlag hart
+BAD_BUMPS,bad_bumps.ogg,Schläge hart
+BAD_BUMP_DIP,bad_bump_dip.ogg,Schlag kurz hart
+BAD_BUMP_DIPS,bad_bump_dips.ogg,Schläge kurz hart
+LUMP,lump.ogg,Buckel
+SPEEDBUMP,speedbump.ogg,Schwelle
+RUTS,ruts.ogg,Rillen
+RUT,rut.ogg,Rille
+LONGRUTS,long_ruts.ogg,Rillen lang
+LONGRUT,long_rut.ogg,Rille lang
+DEEPRUTS,deep_ruts.ogg,Rillen tief
+DEEPRUT,deep_rut.ogg,Rille tief
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+NARROWS,narrows.ogg,Verengt
+WIDEOUT,wideout.ogg,Wird Breiter
+WIDENS,widens.ogg,Weitet Sich
+SUMPPU,sumppu.ogg,Quetscht
+BIG_SUMPPU,big_sumppu.ogg,Quetscht Stark
+SMALL_SUMPPU,small_sumppu.ogg,Quetscht Leicht
+ONTO_NARROWER_ROAD,onto_narrower.ogg,auf schmaler
+ONTO_WIDER_ROAD,onto_wider.ogg,auf breiter
+SMALL_ROAD,onto_small_road.ogg,Auf kleine Strasse
+BIG_ROAD,onto_big_road.ogg,Auf große Strasse
+LAYBY,layby.ogg,Bucht
+SHOULDER,shoulder.ogg,Rand
+CAMBER,camber.ogg,Hält
+BADCAMBER,bad_camber.ogg,Schiebt
+UPHILL,up.ogg,Bergauf
+DOWNHILL,down.ogg,Bergab
+DRAWS_IN,draws_in.ogg,drDraws In
+COMPATIBILITY_REVERSE_CAMBER,reverse_camber.ogg,Schiebt (veraltet)
+COMPATIBILITY_POSITIVE_CAMBER,positive_camber.ogg,Hält (veraltet)
+COMPATIBILITY_NEGATIVE_CAMBER,negative_camber.ogg,Schiebt (veraltet)
+OVERCREST,over_crest.ogg,Über Kuppe
+COMPATIBILITY_BUMPY,bumps.ogg,Schläge (Compatibility)
+COMPATIBILITY_COMPRESSION,compression.ogg,Dip (veraltet)
+COMPATIBILITY_SMALL_CREST_FABZ,small_crest.ogg,Kleine Kuppe (veraltet)
+ONTO_GRAVEL,onto_gravel.ogg,Auf Schotter
+ONTO_TARMAC,onto_tarmac.ogg,Auf Asphalt
+ONTO_CONCRETE,onto_concrete.ogg,Auf Beton
+ONTO_SNOW,onto_snow.ogg,Auf Schnee
+ONTO_COBBLES,onto_cobbles.ogg,Auf Pflaster
+ONTO_ICE,onto_ice.ogg,Auf Eis
+ONTO_SLUSH,onto_slush.ogg,Auf Matsch
+ONTO_GRASS,onto_grass.ogg,Auf Gras
+ONTO_GRIT,onto_grit.ogg,Auf Steine
+GRAVEL,gravel.ogg,Schotter
+LOOSE_GRAVEL,loose_gravel.ogg,Loser Schotter
+RUBBLE,rubble.ogg,Schutt
+DIRT,dirt.ogg,Dreck
+TARMAC,tarmac.ogg,Asphalt
+CONCRETE,concrete.ogg,Beton
+SNOW,snow.ogg,Schnee
+SLUSH,slush.ogg,Schneematsch
+ICE,icy.ogg,Eis
+ICY,icy.ogg,Eisig
+BLACK_ICE,black_ice.ogg,Spiegeleis
+COBBLES,cobbles.ogg,Pflaster
+DIRTY,shit.ogg,Verschmutzt
+WET,wet.ogg,Nass
+DAMP,damp.ogg,Feucht
+DRY,dry.ogg,Trocken
+GRIP,grip.ogg,Grip
+GRIP_OFF,grip_off.ogg,Wenig Grip
+GOOD_GRIP,good_grip.ogg,Griffig
+SURFACE_NOTE,surface.ogg,Belag
+SURFACE_CHANGE,surface_change.ogg,Belagwechsel
+GETS_ROUGHER,gets_rougher.ogg,Wird ruppiger
+GETS_SMOOTHER,gets_smoother.ogg,Wird glatter
+ONTO_FIELD,onto_field.ogg,Übern Acker
+TIGHTENS,tightens.ogg,Verengt
+TIGHTENSBAD,doubletightens.ogg,Verengt Stark
+TIGHTENSLATE,tightens_late.ogg,Verengt Spät
+TIGHTENSEARLY,tightens_early.ogg,Verengt Früh
+TIGHTENSLITTLE,tightens_abit.ogg,Verengt Leicht
+TIGHTENSHALFLONG,tightens_halflong.ogg,Verengt Halflong
+TIGHTENSLONG,tightens_long.ogg,Verengt Spät
+TIGHTENSVERYLONG,tightens_verylong.ogg,Verengt Sehr Spät
+TIGHTENSVERYVERYLONG,tightens_veryverylong.ogg,Verengt Sehr Sehr Spät
+TIGHTENSFUCKINGLONG,tightens_fuckinglong.ogg,Verengt Verdammt Spät
+TIGHTENSLONGLONG,tightens_longlong.ogg,Verengt Lang Lang
+TIGHTENSATJUNCTION,tightens_at_junction.ogg,Verengt An Kreuzung
+TIGHTENSOVERCREST,tightens_overcrest.ogg,Verengt Über Kuppe
+TIGHTENSSUMPPU,tightens_sumppu.ogg,Quetscht
+TIGHTENS_SMALL_SUMPPU,tightens_small_sumppu.ogg,Verengt Quetscht
+TIGHTENS_BIG_SUMPPU,tightens_bad_sumppu.ogg,Verengt Quetscht stark
+TIGHTENSSHARP,tightens_sharp.ogg,Verengt Scharf
+TIGHTENSROUND,tightens_round.ogg,Verengt Rund
+TIGHTENSOPENS,tightens_opens.ogg,Enger Öffnet
+NIPS,nips.ogg,Verengt Spät Hart
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+TIGHTENSTOFLATMINUS,tightens_five_plus.ogg,Enger 6+
+TIGHTENSTOSIX,tightens_five.ogg,Enger 6
+TIGHTENSTOQUICK,tightens_four_plus.ogg,Enger 5+
+TIGHTENSTOFIVE,tightens_four.ogg,Enger 5
+TIGHTENSTOEM,tightens_three_plus.ogg,Enger 4+
+TIGHTENSTOFOUR,tightens_three.ogg,Enger 4
+TIGHTENSTOPLUS,tightens_two_plus.ogg,Enger 3+
+TIGHTENSTOTHREE,tightens_two.ogg,Enger 3
+TIGHTENSTOSQUARE_PLUS,tightens_90_plus.ogg,Enger 90+
+TIGHTENSTOTWO,tightens_90.ogg,Enger 2
+TIGHTENSTOMINUS,tightens_one_plus.ogg,Enger 1+
+TIGHTENSTOONE,tightens_one.ogg,Enger 1
+TIGHTENSTOROUNDHP,tightens_hp_plus.ogg,Enger Kehre
+TIGHTENSTOHP,tightens_hp.ogg,Enger Spitz
+TIGHTENSTOACUTE,tightens_acute.ogg,Enger Spitz
+LINE_CHANGE,,
+LINE_CHANGE,,
+LINE_CHANGE,,
+TOFLAT,_six.ogg,_6
+TOFLATMINUS,_five_plus.ogg,Auf 6+
+TOSIX,_five.ogg,Auf 6
+TOQUICK,_four_plus.ogg,Auf 5+
+TOFIVE,_four.ogg,Auf 5
+TOEM,_three_plus.ogg,Auf 4+
+TOFOUR,_three.ogg,Auf 4
+TOPLUS,_two_plus.ogg,Auf 3+
+TOTHREE,_two.ogg,Auf 3
+TOSQUARE_PLUS,_90_plus.ogg,Auf 90+
+TOTWO,_90.ogg,Auf 2
+TOMINUS,_one_plus.ogg,Auf 1+
+TOONE,_one.ogg,Auf 1
+TOROUNDHP,_hp_plus.ogg,_Open HP
+TOHP,_hp.ogg,Auf Kehre
+TOACUTE,_acute.ogg,Auf Spitz
+COMPATIBILITY_LOIVA_ALKU,late.ogg,Spät (Veraltet)

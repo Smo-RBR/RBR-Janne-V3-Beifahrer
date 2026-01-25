@@ -1,0 +1,197 @@
+[CAR::EXHAUST]
+Pop1 =Audio\Cars\Effects\pop1
+Pop2 =Audio\Cars\Effects\pop2
+Pop3 =Audio\Cars\Effects\pop3
+Pop4 =Audio\Cars\Effects\pop4
+Pop5 =Audio\Cars\Effects\pop5
+Pop6 =Audio\Cars\Effects\pop6
+Pop7 =Audio\Cars\Effects\pop7
+Pop8 =Audio\Cars\Effects\pop8
+Pop9 =Audio\Cars\Effects\pop9
+Pop10 =Audio\Cars\Effects\pop10
+Pop11 =Audio\Cars\Effects\pop11
+[CAR0::EXHAUSTNEW]
+Pop1 =Audio\Cars\Effects\PopsNew\1
+Pop2 =Audio\Cars\Effects\PopsNew\2
+Pop3 =Audio\Cars\Effects\PopsNew\3
+Pop4 =Audio\Cars\Effects\PopsNew\4
+Pop5 =Audio\Cars\Effects\PopsNew\5
+Pop6 =Audio\Cars\Effects\PopsNew\6
+Pop7 =Audio\Cars\Effects\PopsNew\7
+Pop8 =Audio\Cars\Effects\PopsNew\8
+Pop9 =Audio\Cars\Effects\PopsNew\9
+Pop10 =Audio\Cars\Effects\PopsNew\10
+Pop11 =Audio\Cars\Effects\PopsNew\11
+[CAR1::EXHAUSTNEW]
+Pop1 =Audio\Cars\Effects\PopsNew\1
+Pop2 =Audio\Cars\Effects\PopsNew\2
+Pop3 =Audio\Cars\Effects\PopsNew\3
+Pop4 =Audio\Cars\Effects\PopsNew\4
+Pop5 =Audio\Cars\Effects\PopsNew\5
+Pop6 =Audio\Cars\Effects\PopsNew\6
+Pop7 =Audio\Cars\Effects\PopsNew\7
+Pop8 =Audio\Cars\Effects\PopsNew\8
+Pop9 =Audio\Cars\Effects\PopsNew\9
+Pop10 =Audio\Cars\Effects\PopsNew\10
+Pop11 =Audio\Cars\Effects\PopsNew\11
+[CAR2::EXHAUSTNEW]
+Pop1 =Audio\Cars\Effects\PopsNew\1
+Pop2 =Audio\Cars\Effects\PopsNew\2
+Pop3 =Audio\Cars\Effects\PopsNew\3
+Pop4 =Audio\Cars\Effects\PopsNew\4
+Pop5 =Audio\Cars\Effects\PopsNew\5
+Pop6 =Audio\Cars\Effects\PopsNew\6
+Pop7 =Audio\Cars\Effects\PopsNew\7
+Pop8 =Audio\Cars\Effects\PopsNew\8
+Pop9 =Audio\Cars\Effects\PopsNew\9
+Pop10 =Audio\Cars\Effects\PopsNew\10
+Pop11 =Audio\Cars\Effects\PopsNew\11
+[CAR3::EXHAUSTNEW]
+Pop1 =Audio\Cars\Effects\PopsNew\1
+Pop2 =Audio\Cars\Effects\PopsNew\2
+Pop3 =Audio\Cars\Effects\PopsNew\3
+Pop4 =Audio\Cars\Effects\PopsNew\4
+Pop5 =Audio\Cars\Effects\PopsNew\5
+Pop6 =Audio\Cars\Effects\PopsNew\6
+Pop7 =Audio\Cars\Effects\PopsNew\7
+Pop8 =Audio\Cars\Effects\PopsNew\8
+Pop9 =Audio\Cars\Effects\PopsNew\9
+Pop10 =Audio\Cars\Effects\PopsNew\10
+Pop11 =Audio\Cars\Effects\PopsNew\11
+[CAR4::EXHAUSTNEW]
+Pop1 =Audio\Cars\Effects\PopsNew\1
+Pop2 =Audio\Cars\Effects\PopsNew\2
+Pop3 =Audio\Cars\Effects\PopsNew\3
+Pop4 =Audio\Cars\Effects\PopsNew\4
+Pop5 =Audio\Cars\Effects\PopsNew\5
+Pop6 =Audio\Cars\Effects\PopsNew\6
+Pop7 =Audio\Cars\Effects\PopsNew\7
+Pop8 =Audio\Cars\Effects\PopsNew\8
+Pop9 =Audio\Cars\Effects\PopsNew\9
+Pop10 =Audio\Cars\Effects\PopsNew\10
+Pop11 =Audio\Cars\Effects\PopsNew\11
+[CAR5::EXHAUSTNEW]
+Pop1 =Audio\Cars\Effects\PopsNew\1
+Pop2 =Audio\Cars\Effects\PopsNew\2
+Pop3 =Audio\Cars\Effects\PopsNew\3
+Pop4 =Audio\Cars\Effects\PopsNew\4
+Pop5 =Audio\Cars\Effects\PopsNew\5
+Pop6 =Audio\Cars\Effects\PopsNew\6
+Pop7 =Audio\Cars\Effects\PopsNew\7
+Pop8 =Audio\Cars\Effects\PopsNew\8
+Pop9 =Audio\Cars\Effects\PopsNew\9
+Pop10 =Audio\Cars\Effects\PopsNew\10
+Pop11 =Audio\Cars\Effects\PopsNew\11
+[CAR6::EXHAUSTNEW]
+Pop1 =Audio\Cars\Effects\PopsNew\1
+Pop2 =Audio\Cars\Effects\PopsNew\2
+Pop3 =Audio\Cars\Effects\PopsNew\3
+Pop4 =Audio\Cars\Effects\PopsNew\4
+Pop5 =Audio\Cars\Effects\PopsNew\5
+Pop6 =Audio\Cars\Effects\PopsNew\6
+Pop7 =Audio\Cars\Effects\PopsNew\7
+Pop8 =Audio\Cars\Effects\PopsNew\8
+Pop9 =Audio\Cars\Effects\PopsNew\9
+Pop10 =Audio\Cars\Effects\PopsNew\10
+Pop11 =Audio\Cars\Effects\PopsNew\11
+
+[CAR::SUSPENSION]
+Sus1 =Audio\Cars\Effects\Suspen\01
+Sus2 =Audio\Cars\Effects\Suspen\02
+Sus3 =Audio\Cars\Effects\Suspen\01
+Sus4 =Audio\Cars\Effects\Suspen\02
+
+[CAR::BANGS]
+bang1 =Audio\Cars\Effects\bang\01
+bang2 =Audio\Cars\Effects\bang\02
+bang3 =Audio\Cars\Effects\bang\03
+bang4 =Audio\Cars\Effects\bang\04
+bang5 =Audio\Cars\Effects\bang\05
+bang6 =Audio\Cars\Effects\bang\06
+
+[CAR::SQUEEKS]
+Sqe1 =Audio\Cars\Effects\SuspSqee\01
+Sqe2 =Audio\Cars\Effects\SuspSqee\02
+Sqe3 =Audio\Cars\Effects\SuspSqee\03
+Sqe4 =Audio\Cars\Effects\SuspSqee\04
+Sqe5 =Audio\Cars\Effects\SuspSqee\05
+Sqe6 =Audio\Cars\Effects\SuspSqee\06
+Sqe7 =Audio\Cars\Effects\SuspSqee\07
+Sqe8 =Audio\Cars\Effects\SuspSqee\08
+Sqe9 =Audio\Cars\Effects\SuspSqee\09
+Sqe10 =Audio\Cars\Effects\SuspSqee\10
+Sqe11 =Audio\Cars\Effects\SuspSqee\11
+Sqe12 =Audio\Cars\Effects\SuspSqee\12
+Sqe13 =Audio\Cars\Effects\SuspSqee\13
+Sqe14 =Audio\Cars\Effects\SuspSqee\14
+Sqe15 =Audio\Cars\Effects\SuspSqee\15
+Sqe16 =Audio\Cars\Effects\SuspSqee\16
+Sqe17 =Audio\Cars\Effects\SuspSqee\17
+Sqe18 =Audio\Cars\Effects\SuspSqee\18
+[CAR::DOGRINGS]
+DR1 =Audio\Cars\Effects\Dogring\1
+DR2 =Audio\Cars\Effects\Dogring\2
+DR3 =Audio\Cars\Effects\Dogring\3
+DR4 =Audio\Cars\Effects\Dogring\4
+DR5 =Audio\Cars\Effects\Dogring\5
+DR6 =Audio\Cars\Effects\Dogring\6
+DR7 =Audio\Cars\Effects\Dogring\7
+DR8 =Audio\Cars\Effects\Dogring\8
+[CAR::DRIVESHAFT]
+DS1 =Audio\Cars\Effects\DriveShaft\1
+DS2 =Audio\Cars\Effects\DriveShaft\2
+DS3 =Audio\Cars\Effects\DriveShaft\3
+DS4 =Audio\Cars\Effects\DriveShaft\4
+DS5 =Audio\Cars\Effects\DriveShaft\5
+DS6 =Audio\Cars\Effects\DriveShaft\6
+DS7 =Audio\Cars\Effects\DriveShaft\7
+DS8 =Audio\Cars\Effects\DriveShaft\8
+DS9 =Audio\Cars\Effects\DriveShaft\9
+DS10 =Audio\Cars\Effects\DriveShaft\10
+DS11 =Audio\Cars\Effects\DriveShaft\11
+DS12 =Audio\Cars\Effects\DriveShaft\12
+DS13 =Audio\Cars\Effects\DriveShaft\13
+
+[CAR::TRANSMISSION]
+Transmission =Audio\Cars\Effects\trans
+GearChange1 =Audio\Cars\Effects\gearchng
+GearChange2 =Audio\Cars\Effects\gearchn2
+GearChange3 =Audio\Cars\Effects\gearchn3
+[CAR::IGNITION]
+Ignition1 =Audio\Cars\Effects\ignition
+Ignition2 =Audio\Cars\Effects\ignition
+Ignition3 =Audio\Cars\Effects\ignition
+[CAR::WIPER]
+WiperEngine =Audio\Cars\Effects\wipereng
+WiperDown =Audio\Cars\Effects\wiperdwn
+WiperUp =Audio\Cars\Effects\wiperup
+[CAR::RUMBLE]
+Rumble =Audio\Cars\Effects\Rumble
+
+[CAR::OTHER]
+Valve =Audio\Cars\Effects\BlowOffValve
+Turbo =Audio\Cars\Effects\turbo
+Offroad1 = Audio\Impact\Offroad\01
+Offroad2 = Audio\Impact\Offroad\02
+Offroad3 = Audio\Impact\Offroad\03
+Offroad4 = Audio\Impact\Offroad\04
+Offroad5 = Audio\Impact\Offroad\05
+Offroad6 = Audio\Impact\Offroad\06
+Offroad7 = Audio\Impact\Offroad\07
+
+[CAR::EFFECTS]
+Effect1 = Audio\Cars\Effects\Fire
+Effect2 = Audio\Cars\Effects\cooler
+Effect3 = Audio\Cars\Effects\ex_tarm
+Effect4 =Audio\Cars\Effects\ex_grav
+
+[TIRE::SURFACES]
+NormalGravel =Audio\Surfaces\Normal\Gravel
+SkidGravel =Audio\Surfaces\Skid\Gravel
+NormalTarmac =Audio\Surfaces\Normal\Generic
+SkidTarmac =Audio\Surfaces\Skid\Tarm
+NormalSnow =Audio\Surfaces\Normal\Snow
+SkidSnow =Audio\Surfaces\Skid\Snow
+NormalWater =Audio\Surfaces\Normal\Water
+SkidWater =Audio\Surfaces\Normal\Water
+
