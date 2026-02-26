@@ -1,0 +1,40 @@
+# Standardmäßig alles aus Pacenote ignorieren – Ausnahmen folgen
+/*
+!.gitignore
+!config/
+!language/
+!sounds/
+
+# Dotfiles ignorieren (bis auf diese .gitignore)
+.*
+**/.*
+!.gitignore
+
+# Backup-Ordner und -Dateien ignorieren
+Backup/
+backup/
+**/Backup/
+**/backup/
+*-bak*
+**/*-bak*
+
+# tts-out-Ausgaben komplett ignorieren
+tts-out/
+**/tts-out/
+
+# Innerhalb der freigegebenen Ordner zunächst alles ausschließen
+config/**
+language/**
+sounds/**
+
+# Nur .ini- und .ogg-Dateien verfolgen
+!config/**/*.ini
+!language/**/*.ini
+!language/**/*.ogg
+!sounds/**/*.ini
+!sounds/**/*.ogg
+
+# Sprecher mit Leerzeichen im Namen behalten, aber deren Unterordner ignorieren
+!sounds/* */
+sounds/* */*/
+sounds/* */*/**
