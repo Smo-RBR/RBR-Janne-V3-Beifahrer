@@ -23,10 +23,8 @@ backup/
 **/.clinerules
 
 # Backup-Dateien mit -bak im Namen ignorieren
-*-bak
-*-bak.*
-**/*-bak
-**/*-bak.*
+*-bak*
+**/*-bak*
 
 # Test-Output-Ordner ignorieren
 test_output/
@@ -42,8 +40,15 @@ doc/
 **/bin/
 **/doc/
 
+# datafile (Datei oder Ordner) ignorieren
+datafiles
+datafiles/
+**/datafiles
+**/datafiles/
+
 # Im Plugins-Ordner standardmäßig wieder alles ignorieren
 /Plugins/*
 
 # Ausnahme: Pacenote-Ordner soll verfolgt werden
 !/Plugins/Pacenote
+!/Plugins/Pacenote/Pacenote.ini

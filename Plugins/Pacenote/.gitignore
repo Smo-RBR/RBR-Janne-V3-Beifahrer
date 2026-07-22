@@ -4,6 +4,7 @@
 !config/
 !language/
 !sounds/
+!Bilder/
 
 # Dotfiles ignorieren (bis auf diese .gitignore)
 .*
