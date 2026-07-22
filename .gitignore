@@ -51,4 +51,4 @@ datafiles/
 
 # Ausnahme: Pacenote-Ordner soll verfolgt werden
 !/Plugins/Pacenote
-!/Plugins/Pacenote/Pacenote.ini
+!pacenote.ini
