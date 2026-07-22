@@ -1,6 +1,7 @@
 # Standardmäßig alles aus Pacenote ignorieren – Ausnahmen folgen
 /*
 !.gitignore
+!PaceNote.ini
 !config/
 !language/
 !sounds/
